@@ -43,7 +43,8 @@ IsInfectedWithShamoon2(
         FILE_INFORMATION_CHECK Info = { 0 };
         if (GetFileInformationCheck(g_Shamoon2[i].Path, &Info)) {
             if ((g_Shamoon2[i].FileSize && (g_Shamoon2[i].FileSize == Info.FileSize.LowPart)) ||
-                (g_Shamoon2[i].MD5 && (wcscmp(g_Shamoon2[i].MD5, Info.Md5Hash) == 0))) {
+                (g_Shamoon2[i].MD5 && (wcscmp(g_Shamoon2[i].MD5, Info.Md5Hash) == 0)) ||
+                (Info.IsPresentOnDisk)) {
                 Matches += 1;
 
                 wprintf(L"[!] File detect: %s\n", Info.FullPath);
