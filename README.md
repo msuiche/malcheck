@@ -20,7 +20,8 @@ This utility available in *bin/malcheck.exe* contains a portable utility for sim
 - [ ] Parse JSON files as input argument instead of hardcoding quick signatures.
 
 ## References
-[1] *FireEye* https://www.fireeye.com/blog/threat-research/2016/11/fireeye_respondsto.html
-[2] *Symantec* https://www.symantec.com/connect/blogs/shamoon-back-dead-and-destructive-ever
-[3] *McAfee* https://securingtomorrow.mcafee.com/mcafee-labs/shamoon-rebooted/
-[4] *CrowdStrike* https://www.crowdstrike.com/blog/shamoon2/
+- [1] *FireEye* https://www.fireeye.com/blog/threat-research/2016/11/fireeye_respondsto.html
+- [2] *Symantec* https://www.symantec.com/connect/blogs/shamoon-back-dead-and-destructive-ever
+- [3] *McAfee* https://securingtomorrow.mcafee.com/mcafee-labs/shamoon-rebooted/
+- [4] *CrowdStrike* https://www.crowdstrike.com/blog/shamoon2/
+- [5] *Palo Alto* http://researchcenter.paloaltonetworks.com/2016/11/unit42-shamoon-2-return-disttrack-wiper/
