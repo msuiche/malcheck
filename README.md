@@ -24,3 +24,4 @@ This utility available in *bin/malcheck.exe* contains a portable utility for sim
 - [2] *Symantec* https://www.symantec.com/connect/blogs/shamoon-back-dead-and-destructive-ever
 - [3] *McAfee* https://securingtomorrow.mcafee.com/mcafee-labs/shamoon-rebooted/
 - [4] *CrowdStrike* https://www.crowdstrike.com/blog/shamoon2/
+- [5] *Palo Alto* http://researchcenter.paloaltonetworks.com/2016/11/unit42-shamoon-2-return-disttrack-wiper/
