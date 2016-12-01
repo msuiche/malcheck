@@ -12,7 +12,12 @@ This utility available in *bin/malcheck.exe* contains a portable utility for sim
 
 [+] No signs of Shamoon2 have been found.
 ```
+
+## TODO
+- [ ] Parse JSON files as input argument instead of hardcoding quick signatures.
+
 ## References
-https://www.fireeye.com/blog/threat-research/2016/11/fireeye_respondsto.html
-https://www.symantec.com/connect/blogs/shamoon-back-dead-and-destructive-ever
-https://securingtomorrow.mcafee.com/mcafee-labs/shamoon-rebooted/
+*FireEye* https://www.fireeye.com/blog/threat-research/2016/11/fireeye_respondsto.html
+*Symantec* https://www.symantec.com/connect/blogs/shamoon-back-dead-and-destructive-ever
+*McAfee* https://securingtomorrow.mcafee.com/mcafee-labs/shamoon-rebooted/
+*CrowdStrike* https://www.crowdstrike.com/blog/shamoon2/
