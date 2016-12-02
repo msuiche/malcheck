@@ -1,6 +1,8 @@
 //
-// C translation of the routine that decode strings inside Shamoon 2.0. used against General Authority of Civil Aviation (GACA) in Saudi.
-// Strings such as passwords, username etc.
+// Translation of string decoding routine used by Shamoon 2.0 droppers used against General Authority of Civil Aviation (GACA) in Saudi Arabia. Strings such as passwords, username etc.
+// This can be used to identify similar categories or malwares from the same family.
+//
+// Translation done by Comae Technologies. www.comae.io / @comae.io
 //
 
 #include <windows.h>
